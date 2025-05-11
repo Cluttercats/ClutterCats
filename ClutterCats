@@ -12,7 +12,10 @@
 <p>#### Discounts:<br />- 10% for Veterans &amp; Seniors<br />- 15% for Repeat Customers</p>
 <p>---</p>
 <p>### 📅 Book an Appointment<br />Use the form below to request a junk removal or pressure washing appointment. We'll confirm with you shortly!</p>
-<p>&lt;div style="min-width:320px;height:630px;"&gt;<br /> &lt;iframe src="https://calendly.com/your-link-here" width="100%" height="100%" frameborder="0"&gt;&lt;/iframe&gt;<br />&lt;/div&gt;</p>
+<p>&lt;div style="min-width:320px;height:630px;"&gt;<br /> &lt;iframe src="<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/cluttercatsofficial/30min?primary_color=37d01b" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->" width="100%" height="100%" frameborder="0"&gt;&lt;/iframe&gt;<br />&lt;/div&gt;</p>
 <p>---</p>
 <p>📧 cluttercatsofficial@gmail.com <br />📞 205-235-3987</p>
 <p>📸 Instagram: [@cluttercats_](https://instagram.com/cluttercats_) <br />📘 Facebook: [Clutter Cats](https://facebook.com/ClutterCats)</p>
